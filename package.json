@@ -1,17 +1,8 @@
 {
-  "name": "node-hello-world",
+  "name": "heroku-static-provider",
   "version": "0.0.1",
+  "private": true,
   "dependencies": {
-    "express": "2.3.11"
-  },
-  "engines": {
-    "node": "0.10.26",
-    "npm": "2.7.5"
-  },
-  "main": "hello.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "express": "~3.3.4"
+  }
 }
