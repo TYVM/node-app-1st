@@ -3,5 +3,11 @@
   "version": "0.0.1",
   "dependencies": {
     "express": "2.3.11"
-  }
+  },
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
